@@ -1,0 +1,20 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms",
+  "main": "src/mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashez2000/dsa.git"
+  },
+  "keywords": [],
+  "author": "Aswin Gangadharan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashez2000/dsa/issues"
+  },
+  "homepage": "https://github.com/ashez2000/dsa#readme"
+}
